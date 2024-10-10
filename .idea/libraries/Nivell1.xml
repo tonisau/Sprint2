@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Nivell1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tasca S2.02/Nivell1/schema_tienda.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Tasca S2.02/Nivell1/schema_universidad.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

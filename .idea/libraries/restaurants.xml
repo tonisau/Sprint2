@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="restaurants">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tasca S2.04/restaurants.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
